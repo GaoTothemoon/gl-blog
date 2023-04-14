@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-40d7f818","path":"/guide/cmp/formItem/gl-input.html","title":"Input 输入框","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"常规用法","slug":"常规用法","link":"#常规用法","children":[]}],"git":{"updatedTime":1681365104000},"filePathRelative":"guide/cmp/formItem/gl-input.md"}');export{t as data};

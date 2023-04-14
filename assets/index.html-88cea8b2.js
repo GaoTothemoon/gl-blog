@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-63c806c2","path":"/guide/guide/","title":"安装","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"npm 安装","slug":"npm-安装","link":"#npm-安装","children":[]},{"level":2,"title":"CDN","slug":"cdn","link":"#cdn","children":[]}],"git":{"updatedTime":1680767630000},"filePathRelative":"guide/guide/README.md"}');export{e as data};

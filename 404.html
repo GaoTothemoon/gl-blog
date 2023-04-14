@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.61">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <link rel="icon" href="/img/logo.jpg"><title>Backspace</title><meta name="description" content="Vue 组件库">
+    <link rel="preload" href="/gl-blog/assets/style-eab8de1d.css" as="style"><link rel="stylesheet" href="/gl-blog/assets/style-eab8de1d.css">
+    <link rel="modulepreload" href="/gl-blog/assets/app-627005e5.js"><link rel="modulepreload" href="/gl-blog/assets/clientConfigs-af0d2549.js"><link rel="modulepreload" href="/gl-blog/assets/framework-ee9d2599.js"><link rel="modulepreload" href="/gl-blog/assets/404.html-f9875e7b.js"><link rel="modulepreload" href="/gl-blog/assets/404.html-789d3433.js">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><main class="page"><div class="theme-default-content"><h1>404</h1><blockquote>That&#39;s a Four-Oh-Four.</blockquote><a href="/gl-blog/" class="">Take me home</a></div></main></div><!----><!--]--></div>
+    <script type="module" src="/gl-blog/assets/app-627005e5.js" defer></script>
+  </body>
+</html>

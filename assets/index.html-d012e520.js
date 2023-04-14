@@ -1,0 +1,6 @@
+import{_ as e,C as t,D as n,a9 as a}from"./framework-ee9d2599.js";const i={},s=a(`<h1 id="安装" tabindex="-1"><a class="header-anchor" href="#安装" aria-hidden="true">#</a> 安装</h1><h2 id="npm-安装" tabindex="-1"><a class="header-anchor" href="#npm-安装" aria-hidden="true">#</a> npm 安装</h2><p>推荐使用 npm 的方式安装，它能更好地和 webpack 打包工具配合使用。</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>npm i element-ui -S
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2 id="cdn" tabindex="-1"><a class="header-anchor" href="#cdn" aria-hidden="true">#</a> CDN</h2><p>目前可以通过 unpkg.com/element-ui 获取到最新版本的资源，在页面上引入 js 和 css 文件即可开始使用。</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>&lt;!-- 引入样式 --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/element-ui/lib/theme-chalk/index.css&quot;&gt;
+&lt;!-- 引入组件库 --&gt;
+&lt;script src=&quot;https://unpkg.com/element-ui/lib/index.js&quot;&gt;&lt;/script&gt;
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,7),d=[s];function l(c,r){return t(),n("div",null,d)}const o=e(i,[["render",l],["__file","index.html.vue"]]);export{o as default};

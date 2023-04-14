@@ -1,0 +1,1 @@
+import{_ as t,C as a,D as c,$ as e,F as n}from"./framework-ee9d2599.js";const r={},s=e("h1",{id:"资源",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#资源","aria-hidden":"true"},"#"),n(" 资源")],-1),o=[s];function _(d,i){return a(),c("div",null,o)}const l=t(r,[["render",_],["__file","index.html.vue"]]);export{l as default};

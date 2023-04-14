@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0a7abc31","path":"/guide/cmp/formItem/gl-checkbox.html","title":"Checkbox 多选框","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"常规用法","slug":"常规用法","link":"#常规用法","children":[]}],"git":{"updatedTime":1681365104000},"filePathRelative":"guide/cmp/formItem/gl-checkbox.md"}');export{e as data};
